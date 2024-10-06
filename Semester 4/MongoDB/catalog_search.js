@@ -1,5 +1,5 @@
-# Question: Aggregation pipeline to illustrate text search on catalog data
-# File: catalog_data.json
+// Question: Aggregation pipeline to illustrate text search on catalog data
+// File: catalog_data.json
 
 db.catalog.aggregate([
     { $match: { $text: { $search: "electronics" } } },
