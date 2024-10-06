@@ -13,3 +13,7 @@ This repository is a complete collection of lab programs which have been written
 - Digital Design and Computer Organization (BCS302)
 - Operating Systems (BCS303)
 - Data Structures Laboratory (BCL305)
+- Artificial Intelligence(BAD402)
+- Analysis and design of algorithm(BCSL404)
+- Database management system(BCS403)
+- MongoDB(BDSL456B)
