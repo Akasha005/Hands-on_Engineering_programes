@@ -1,5 +1,5 @@
-# Question: Execute Aggregation operations ($avg, $min, $max, $sum, $push, $addToSet)
-# File: employee_data.json
+// Question: Execute Aggregation operations ($avg, $min, $max, $sum, $push, $addToSet)
+// File: employee_data.json
 
 db.collection.aggregate([
     {
