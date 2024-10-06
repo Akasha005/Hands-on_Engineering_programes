@@ -1,7 +1,7 @@
-# Question: Insert, Query, Update, Delete, Projection commands
-# File: employee_data.json
+// Question: Insert, Query, Update, Delete, Projection commands
+//  File: employee_data.json
 
-# Insert command
+/ Insert command
 db.collection.insertOne({
     name: "John",
     age: 30,
